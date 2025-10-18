@@ -19,7 +19,7 @@ body {
   width: 100%;
   background-color: #121212;
   color: #fff;
-  font-size: clamp(10px, 1vw, 20px);
+  font-size: clamp(8px, 1vw, 20px);
 }
 
 main {
@@ -43,7 +43,6 @@ main h4 {
 }
 main p {
   font-family: txtp;
-  letter-spacing: 0.2rem;
 }
 main nav {
   width: 100%;
